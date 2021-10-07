@@ -1,0 +1,29 @@
+
+body{
+	background-color: #3F3E45;
+}
+
+.fondo {
+	background-color: #051F30;
+}
+/*
+	Colores:
+	gris #C5D3D6
+	celeste #80C7DA
+*/
+.side-container {
+	background-color: #3F3E45;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.body-container {
+	background-color: white;
+	padding: 25px;
+}
+
+.photo {
+	width: 300px;
+	border-radius: 175px;
+}
+
